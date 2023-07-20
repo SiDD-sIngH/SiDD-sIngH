@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiDD-sIngH
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning c,java,kotlin
+- 🌱 I’m currently learning c++,javascript,solidity,react js
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me siddhantsinghcr7@gmail.com
 
